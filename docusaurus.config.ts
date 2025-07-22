@@ -11,7 +11,7 @@ const config: Config = {
     v4: true, 
   },
 
-  url: 'https://docs.arulmozhikumar.dev', 
+  url: 'https://notes.arulmozhikumar.dev', 
   baseUrl: '/',
 
   organizationName: 'arulmozhikumar7', 
