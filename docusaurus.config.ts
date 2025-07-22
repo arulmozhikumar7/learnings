@@ -31,7 +31,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/arulmozhikumar7/learnings/edit/main/docs/',
+          editUrl: 'https://github.com/arulmozhikumar7/learnings/edit/main/',
         },
         blog: false, 
         theme: {
