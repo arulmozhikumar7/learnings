@@ -42,6 +42,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+    { name: 'google-site-verification', content: '-uh5C_JGuAYnUxSyL4uEG3ICS43XGV6GzJqZcoGhxX8' },
+  ],
     image: 'img/logo.png',
     navbar: {
       title: 'Arulmozhikumar',
