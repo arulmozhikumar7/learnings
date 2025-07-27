@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Hii',
+  title: 'Arulmozhikumar',
   tagline: 'Learning one byte at a time',
   favicon: 'img/logo.png',
 
